@@ -1,0 +1,5 @@
+Heuristic,Wins,Losses,Draws,Total Games,Win Rate (%)      weights = 10,1,2,4
+H1,43,48,5,96,44.79
+H2,42,46,8,96,43.75
+H3,46,42,8,96,47.92
+H4,47,42,7,96,48.96
